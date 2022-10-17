@@ -1,4 +1,4 @@
-# font-end-course
+# front-end-course
 HTML/CSS/JavaScript
 
 ## Setup
